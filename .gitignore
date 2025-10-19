@@ -1,0 +1,28 @@
+# Node modules (if any)
+node_modules/
+
+# Build artifacts
+*.log
+*.tmp
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+temp/
+tmp/
+
+# Minima runtime data (if any)
+minima-data/
+mds-data/
+
+# Package files (these are generated)
+*.mds.zip
