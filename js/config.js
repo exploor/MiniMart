@@ -1,0 +1,14 @@
+/**
+ * MiniMart Configuration
+ */
+const CONFIG = {
+    APP_NAME: 'minimart',
+    VERSION: '1.0.0',
+    TREASURY_ADDRESS: 'MxG086AUGQMWM6S47P6GWR2U1AV3391EPR5Q53N7DN9MGNMMN6BMH270SV8QRSC',
+    MAX_IMAGE_SIZE_MB: 5,
+    MAX_ZIP_SIZE_MB: 50,
+    REGISTRATION_FEE: '0.01'
+};
+
+window.CONFIG = CONFIG;
+console.log('CONFIG loaded:', CONFIG);

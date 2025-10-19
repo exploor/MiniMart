@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(powershell -Command \"Invoke-WebRequest -Uri ''https://github.com/minima-global/Minima/releases/download/v1.0.45/mds-2.1.0.js'' -OutFile ''C:\\Users\\explo\\minidev\\MiniDev\\mds.js''\")",
+      "Bash(node:*)",
+      "Read(//c/Users/explo/Documents/1aMachineLearning/Python/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
